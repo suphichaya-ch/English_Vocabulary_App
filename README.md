@@ -38,24 +38,24 @@
 หน้า Dashboard (หน้าแรก):
 สิ่งที่ต้องโชว์: ตัวเลขสถิติ (ทั้งหมด, จำได้แล้ว, ต้องทบทวน) และกราฟประเภทคำ (Tags)
 คำอธิบาย: แสดงภาพรวมของการเรียนรู้และสถิติคำศัพท์ในคลังข้อมูล
-![screenshots](screenshots/image.png)
+<img src="screenshots/image.png" width="300"/>
 
 หน้ารายการคำศัพท์ (Word List):
 สิ่งที่ต้องโชว์: รายการคำศัพท์ที่เรียงกันสวยงาม และ การลองพิมพ์ค้นหา (Search) ในช่องด้านบน
 คำอธิบาย: แสดงระบบการจัดการข้อมูลและการค้นหาแบบ Real-time (Filter)
-![screenshots](screenshots/image%20copy.png)
+<img src="screenshots/image%20copy.png" width="300"/>
 
 หน้าโหมดทบทวน (Review Mode / Flashcard):
 สิ่งที่ต้องโชว์: การ์ดคำศัพท์ที่ซ่อนเฉลย (มีเครื่องหมาย ???) และภาพตอนที่กดเฉลยแล้วเห็นคำแปลกับตัวอย่างประโยค
 คำอธิบาย: แสดงฟีเจอร์ช่วยจำคำศัพท์ผ่านระบบสุ่ม Flashcards
-![screenshots](screenshots/image%20copy%202.png)
+<img src="screenshots/image%20copy%202.png" width="300"/>
 
 หน้าเพิ่ม/แก้ไขคำศัพท์ (Form & Validation):
 สิ่งที่ต้องโชว์: ช่องกรอกข้อมูล และ ภาพตอนที่ลืมกรอกแล้วมีตัวหนังสือสีแดงเตือน (Validation Error)
 คำอธิบาย: แสดงระบบตรวจสอบความถูกต้องของข้อมูลก่อนบันทึกลง SQLite
-![screenshots](screenshots/image%20copy%203.png)
+<img src="screenshots/image%20copy%203.png" width="300"/>
 
 หน้าแสดงรายละเอียด (Word Detail):
 ยละเอียดคำศัพท์แบบเต็มๆ และปุ่มแก้ไข/ลบ
 คำอธิบาย: แสดงข้อมูลเชิงลึกของแต่ละคำศัพท์
-![screenshots](screenshots/image%20copy%204.png)
+<img src="screenshots/image%20copy%204.png" width="300"/>
