@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.english_vocabulary_app"
+    namespace = "com.Suphichaya.english_vocabulary_app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
